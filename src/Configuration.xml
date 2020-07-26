@@ -546,6 +546,7 @@
 			<Enum>СпособыОтбораДанных</Enum>
 			<Enum>ТипыОбъектов</Enum>
 			<Enum>РежимСовместимости</Enum>
+			<Enum>кд_ИндексированиеМетаданных</Enum>
 			<Report>ОтчетПоПравиламОбменаДанными</Report>
 			<Report>ОтчетПоПравиламРегистрацииОбъектов</Report>
 			<Report>ирАнализЗамераПроизводительности</Report>
@@ -633,6 +634,7 @@
 			<InformationRegister>СохраненныеНастройки</InformationRegister>
 			<InformationRegister>ФайлыПользователей</InformationRegister>
 			<InformationRegister>кд_НастройкиКонфиграции</InformationRegister>
+			<InformationRegister>кд_Метаданные</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
