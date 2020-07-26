@@ -3541,8 +3541,8 @@
 		<Metadata name="InformationRegister.кд_НастройкиКонфиграции.Form.ФормаЗаписи.Form" id="6b4b8bdd-a0b4-4b0d-a125-ef1c518d48ec.0" configVersion="1fcb020b4b9ccf4eba57203f1707b3b500000000"/>
 		<Metadata name="InformationRegister.кд_НастройкиКонфиграции.Form.ФормаСписка" id="f2730466-ffba-492d-9735-0fe6587dd8cf" configVersion="86d1217ef96bdc4abc5717cdc92ad35000000000"/>
 		<Metadata name="InformationRegister.кд_НастройкиКонфиграции.Form.ФормаСписка.Form" id="f2730466-ffba-492d-9735-0fe6587dd8cf.0" configVersion="13a3c30e1a441a408ce5a24506cf47ce00000000"/>
-		<Metadata name="Interface.Полный" id="f79f6734-8e03-4789-9b8e-2472dc48871d" configVersion="1e8338568ba7f048a02a9198508ab52800000000"/>
-		<Metadata name="Interface.Полный.Interface" id="f79f6734-8e03-4789-9b8e-2472dc48871d.0" configVersion="c18619745b2e674eb22d352b2e70f54100000000"/>
+		<Metadata name="Interface.Полный" id="f79f6734-8e03-4789-9b8e-2472dc48871d" configVersion="2b65393e9a85e94e9a673133861d5f0f00000000"/>
+		<Metadata name="Interface.Полный.Interface" id="f79f6734-8e03-4789-9b8e-2472dc48871d.0" configVersion="55d355ffb479c44e87f7809eda8f4e6600000000"/>
 		<Metadata name="Interface.ирРазработчик" id="b2ed3de7-45f7-4bd9-880e-3c499b70767b" configVersion="3d2d3dd2422f46439fcaaec6e4233f9600000000"/>
 		<Metadata name="Interface.ирРазработчик.Interface" id="b2ed3de7-45f7-4bd9-880e-3c499b70767b.0" configVersion="140af15f651114499496f19d3d5d30b900000000"/>
 		<Metadata name="Language.Русский" id="3e6e0eb5-37f5-4af5-b194-377a736a52ac" configVersion="7fbd864d5665f043aedcda05e02e2d4900000000"/>
