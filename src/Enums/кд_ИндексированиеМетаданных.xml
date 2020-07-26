@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="35f47d71-b753-4148-8e77-171a200c0393">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.кд_ИндексированиеМетаданных" category="Ref">
+				<xr:TypeId>8a27f5e3-ba1f-4bbf-9ced-c43625720815</xr:TypeId>
+				<xr:ValueId>c5952681-8dd8-4121-b6c4-6818bfda93ee</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.кд_ИндексированиеМетаданных" category="Manager">
+				<xr:TypeId>0199278a-22c9-492a-a082-8e6f953ac796</xr:TypeId>
+				<xr:ValueId>a3966025-1b50-46cc-bae8-fcc10100cd96</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.кд_ИндексированиеМетаданных" category="List">
+				<xr:TypeId>6f75189c-ae52-483d-b9bb-daa37e49def7</xr:TypeId>
+				<xr:ValueId>8fb1a009-86d4-462d-abbb-de5684d7ff9e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>кд_ИндексированиеМетаданных</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>КД: Индексирование метаданных</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="46940ef9-bc89-4319-8259-d59596d85fcd">
+				<Properties>
+					<Name>НеИндексировать</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Не индексировать</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="95668060-d9b1-40b2-9896-4be06592432e">
+				<Properties>
+					<Name>ВФайлах</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>В файлах .idx</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="47cfdaf8-bb31-4f27-b705-ed459d6f0072">
+				<Properties>
+					<Name>ВБазеДанных</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>В базе данных</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

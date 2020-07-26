@@ -1,0 +1,22 @@
+﻿Шаблон создает технологический журнал, фиксирующий утечки памяти на сервере 1С:Предприятия и в конфигурации. Генерирует большой объем информации.
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://v8.1c.ru/v8/tech-log">
+	<dump create="false" type="136"/>
+	<log history="168">
+		<event>
+			<eq property="name" value="excp"/>
+		</event>
+		<event>
+			<eq property="name" value="LEAKS"/>
+		</event>
+		<property name="all"> </property>
+		<event>
+			<eq property="name" value="QERR"/>
+		</event>
+	</log>
+	<mem/>
+	<leaks collect="1">
+		<point call="client"/>
+		<point call="server"/>
+	</leaks>
+</config>

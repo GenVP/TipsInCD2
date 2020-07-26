@@ -1,0 +1,15 @@
+﻿Диагностика ожиданий на блокировках СУБД (8.3.8+)
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://v8.1c.ru/v8/tech-log">
+	<log history="24" location="E:\1c_Log">
+		<property name="all"/>
+		<event>
+			<gt property="lkpto" value="0"/>
+		</event>
+		<event>
+			<gt property="lkato" value="0"/>
+		</event>
+	</log>
+	<dump create="false" type="0" prntscrn="false"/>
+	<dbmslocks/>
+</config>
