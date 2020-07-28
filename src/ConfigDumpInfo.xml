@@ -544,8 +544,8 @@
 		<Metadata name="CommonModule.ирПривилегированный.Module" id="4c09b85c-4566-4862-b8b9-0c21d939af9d.0" configVersion="dd8e484c08b61d4e8ea78ccdf3ded83000000000"/>
 		<Metadata name="CommonModule.ирСервер" id="e3c2c9e1-a519-4acd-bc0a-d2f23b90ebd5" configVersion="3e93c6fe55181f40a3bf4eae003dcfb700000000"/>
 		<Metadata name="CommonModule.ирСервер.Module" id="e3c2c9e1-a519-4acd-bc0a-d2f23b90ebd5.0" configVersion="80545be8ab9f6243bfcd2aa422f10dbd00000000"/>
-		<Metadata name="CommonModule.кдМетаданные" id="e4c671f2-c3c3-4ca1-a029-e3ddfa16290f" configVersion="ded6442dbb1c7a4082bf4fe5733081c600000000"/>
-		<Metadata name="CommonModule.кдМетаданные.Module" id="e4c671f2-c3c3-4ca1-a029-e3ddfa16290f.0" configVersion="593d0a3d4aea8648816867e2cfe9725900000000"/>
+		<Metadata name="CommonModule.кдМетаданные" id="e4c671f2-c3c3-4ca1-a029-e3ddfa16290f" configVersion="2f6a81265191324ba2ea2215c474957100000000"/>
+		<Metadata name="CommonModule.кдМетаданные.Module" id="e4c671f2-c3c3-4ca1-a029-e3ddfa16290f.0" configVersion="3851970dc5244d4586a6d1b0486ca92100000000"/>
 		<Metadata name="CommonModule.кдРаботаСДиалогами" id="398b0112-c862-4463-8095-65fd51c06133" configVersion="097e3fd65fcd4647bd8d6cf88427dd9d00000000"/>
 		<Metadata name="CommonModule.кдРаботаСДиалогами.Module" id="398b0112-c862-4463-8095-65fd51c06133.0" configVersion="be7b61865b5cf4469bfe58c3a2f4ba5600000000"/>
 		<Metadata name="CommonPicture.Группа" id="ee64df2c-71c1-42eb-9202-cf08e2c9f6aa" configVersion="3935bbb54a65d949a9aa08467ffef3ff00000000"/>
