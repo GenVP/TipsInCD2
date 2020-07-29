@@ -487,6 +487,7 @@
 			<CommonModule>ирСервер</CommonModule>
 			<CommonModule>кдРаботаСДиалогами</CommonModule>
 			<CommonModule>кдМетаданные</CommonModule>
+			<CommonModule>кдМетаданныеXML</CommonModule>
 			<CommonCommand>ирВыборГлобальнойКоманды</CommonCommand>
 			<CommonCommand>ирОбработатьОбъекты</CommonCommand>
 			<CommonCommand>ирОПодсистеме</CommonCommand>
